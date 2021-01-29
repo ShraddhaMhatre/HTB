@@ -1,7 +1,7 @@
 import requests
 import re
 import random
-
+# Refering to ippsec's video: https://www.youtube.com/watch?v=G5iw8c2vXuk
 #Usage: python3 bludit.py
 
 HOST = '10.10.10.191'
